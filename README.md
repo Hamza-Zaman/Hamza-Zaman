@@ -1,8 +1,5 @@
 ### Hi there, I'm Hamza Zaman, and I am open to work 👋
 
-<!--
-**Hamza-Zaman/Hamza-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 * Quick overveiw about Hamza:
 Data Scientist | Python/R Programmer | SQL | Machine Learning | 3+ Years Experience as a Senior Product Manager | Data-Driven Strategies | Amazon FBA Consultant | Current Location: London, United Kingdom | Open to Work
 
