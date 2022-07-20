@@ -1,9 +1,9 @@
 ### Hi there, I'm Hamza Zaman, and I am open to work 👋
 
-* Quick overveiw about Hamza:
+### Quick overveiw about Hamza:
 Data Scientist | Python/R Programmer | SQL | Machine Learning | 3+ Years Experience as a Senior Product Manager | Data-Driven Strategies | Amazon FBA Consultant | Current Location: London, United Kingdom | Open to Work
 
-* Reach me out at:
+### Reach me out at:
 * Linkedin (3k+ Followers) 💼 : [Linkedin](https://www.linkedin.com/in/data-scientist-consultant/)
 * Twitter  👨‍🎓  : [Twitter](https://twitter.com/Hamza_Zaman_)
 * Email  📧  : hamzazaman04@gmail.com
