@@ -11,4 +11,4 @@ Data Scientist | Python/R Programmer | SQL | Machine Learning | 3+ Years Experie
 - 🔭 I’m currently working on Data Science & Machine Learning.
 - 🌱 I’m currently learning Machine Learning, Deelp Learning and NLP.
 - 👯 I’ve 3+ years of experience as a Senior Product Manager at Extreme Commerce.
-- 💡 I’m open for Data Science, Machine Learning opportunities.
+- 💡 I’m open for Data Science, Machine Learning role.
