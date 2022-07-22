@@ -4,7 +4,7 @@
 Data Scientist | Python/R Programmer | SQL | Machine Learning | 3+ Years Experience as a Senior Product Manager | Data-Driven Strategies | Amazon FBA Consultant | Current Location: London, United Kingdom | Open to Work
 
 ### Reach me out at:
-* LinkedIn (3k+ Followers) 💼 : [LinkedIn](https://www.linkedin.com/in/data-scientist-consultant/)
+* LinkedIn (3500+ Followers) 💼 : [LinkedIn](https://www.linkedin.com/in/data-scientist-consultant/)
 * Twitter  👨‍🎓  : [Twitter](https://twitter.com/Hamza_Zaman_)
 * Email  📧  : hamzazaman04@gmail.com
 
