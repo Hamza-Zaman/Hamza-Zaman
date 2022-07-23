@@ -3,7 +3,7 @@
 ### Quick overview about Hamza:
 Data Scientist | Python/R Programmer | SQL | Machine Learning | 3+ Years Experience as a Senior Product Manager | Data-Driven Strategies | Amazon FBA Consultant | Current Location: London, United Kingdom | Open to Work
 
-### Hamza Portfolio:
+### Hamza Portfolio 💼:
 * https://github.com/Hamza-Zaman/hamza-latest-portfolio
 
 ### Reach me out at:
