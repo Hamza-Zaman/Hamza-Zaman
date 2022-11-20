@@ -7,7 +7,7 @@ MSc Data Science from LSBU | Python/R Programmer | SQL | Machine Learning | 2+ Y
 * https://github.com/Hamza-Zaman/hamza-latest-portfolio
 
 ### Reach me out at:
-* LinkedIn (4800+ Followers) 💼 : [LinkedIn](https://www.linkedin.com/in/hamza-zaman-data/)
+* LinkedIn (5500+ Followers) 💼 : [LinkedIn](https://www.linkedin.com/in/hamza-zaman-data/)
 * Twitter  👨‍🎓  : [Twitter](https://twitter.com/Hamza_Zaman_)
 * Medium 📝 : https://hamza-zaman.medium.com/
 * Email  📧  : hamzazaman04@gmail.com
