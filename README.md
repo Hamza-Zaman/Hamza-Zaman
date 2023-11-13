@@ -1,7 +1,7 @@
 ### Hi there, I'm Hamza Zaman, and I am open to work 👋
 
 ### Quick overview about Hamza:
-MSc Data Science Graduate from London | Experience in Python, R, SQL, ML, NLP, LLM | Final Year Thesis around NLP | Ex Head of Sourcing & Logistics - Data Analytics in EC | 2+ years in making data-informed decisions
+MSc Data Science Graduate with Distinction from London | Experience in Python, R, SQL, ML, NLP, LLM | Final Year Thesis around NLP | Ex Head of Sourcing & Logistics - Data Analytics in EC | 2+ years in making data-informed decisions
 
 
 ### Hamza Portfolio 💼:
