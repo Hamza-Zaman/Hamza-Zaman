@@ -5,7 +5,7 @@ MSc Data Science Graduate with Distinction from London | Experience in Python, R
 
 
 ### Hamza Portfolio 💼:
-* https://github.com/Hamza-Zaman/hamza-latest-portfolio
+* [Portfolio](https://hamza-zaman.github.io/)
 
 ### Reach me out at:
 * LinkedIn (10K+ Followers) 💼 : [LinkedIn](https://www.linkedin.com/in/hamza-zaman-data/)
